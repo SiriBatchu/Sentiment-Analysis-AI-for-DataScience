@@ -1,4 +1,4 @@
-# CMPE-255-Assignment4
+# Sentiment-Analysis-AI-for-DataScience
 Use AI to do data science/coding in chatbot mode
 
 #Assignment 1:
@@ -26,9 +26,7 @@ CRISP-DM is iterative; feedback from any phase can lead to revisiting earlier ph
 
 Chatgpt chat transcript: https://chatgpt.com/share/67037647-7aec-8004-ac2b-511fc55c42d1
 
-Colab implementation file: https://github.com/SiriBatchu/Sentiment-Analysis-AI-for-DataScience
-
-Youtube link: https://www.youtube.com/watch?v=8sdKKgRUH9A
+Youtube link: https://youtu.be/3uAwDd6F02U
 
 Medium Link: https://medium.com/@bsirigupta/building-and-deploying-a-sentiment-analysis-model-using-lstm-and-pre-trained-glove-embeddings-a0a1bbda2b67
 
